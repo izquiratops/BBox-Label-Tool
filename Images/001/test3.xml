@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<object>
+		<name>Sky</name>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>6</ymin>
+			<xmax>228</xmax>
+			<ymax>104</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Buildings</name>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>110</ymin>
+			<xmax>157</xmax>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
+	<folder>Annotations</folder>
+	<filename>test3.jpg</filename>
+	<size>
+		<width>241</width>
+		<height>213</height>
+		<depth>3</depth>
+	</size>
+</annotation>

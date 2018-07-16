@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<object>
+		<name>Dog</name>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>8</ymin>
+			<xmax>175</xmax>
+			<ymax>116</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Rope</name>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>123</ymin>
+			<xmax>99</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+	<folder>Annotations</folder>
+	<filename>test.jpg</filename>
+	<size>
+		<width>196</width>
+		<height>162</height>
+		<depth>3</depth>
+	</size>
+</annotation>
