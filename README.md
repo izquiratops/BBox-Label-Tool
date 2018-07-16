@@ -13,7 +13,7 @@ Yet another label tool
 ├── main.py   *# source code for the tool*
 ├── Images    *# direcotry containing the images to be labeled*
     ├── predefined_classes.txt
-    ├── 001 <br />
+    ├── 001
         └── .jpg files.
 ```
 Environment
